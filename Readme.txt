@@ -1,4 +1,4 @@
-Ich freue mich, Ihnen meinen Entwickler-Portfolio vorzustellen. Mein Name ist Romolo Minacori und ich bin ein leidenschaftlicher Entwickler mit Erfahrung in der Entwicklung von Web-Anwendungen.
+Ich freue mich, Ihnen meinen <strong>Entwickler-Portfolio</strong> vorzustellen. Mein Name ist Romolo Minacori und ich bin ein leidenschaftlicher Entwickler mit Erfahrung in der Entwicklung von Web-Anwendungen.
 
 In meinem Portfolio finden Sie eine Auswahl meiner Arbeiten, einschließlich Websites, Anwendungen und anderen Projekten, an denen ich gearbeitet habe. Ich habe sowohl als Frontend- als auch als Backend-Entwickler gearbeitet und habe Kenntnisse in verschiedenen Technologien und Programmiersprachen wie HTML, CSS, Php, MySql.
 
